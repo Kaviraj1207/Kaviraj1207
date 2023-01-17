@@ -4,16 +4,16 @@
 :computer: Aspiring Data Scientist with a passion for delivering valuable insights :chart_with_upwards_trend: from data through analytical functions and data retrieval methods. 
 
 🔭 I'm currently looking for new roles as  
-* Data Analyst  
-* Data Scientist  
-* Machine learning Engineer  
+* Data Analyst 
+* Data Scientist 
+* Machine learning Engineer 
 
   to explore, contribute and learn! :repeat:
   
 📫 kaviraj1207@gmail.com
   
-## My Skills include :   
-* Programming Languages : Python :snake:, R, SQL 
+## :hammer_and_wrench: My Skills include :   
+* Programming Languages : Python :snake:, R, SQL :card_file_box:  
 * Statistics :abacus:   
 * Data Visualisation tools : Excel, PowerBI :bar_chart:   
 * Machine Learning :robot:  
